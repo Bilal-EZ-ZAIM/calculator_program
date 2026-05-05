@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bbila\\OneDrive\\Desktop\\dote net project\\c#\\MyApp\\MyApp.csproj": {}
+    "C:\\Users\\bbila\\OneDrive\\Desktop\\project\\Opp\\Opp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bbila\\OneDrive\\Desktop\\dote net project\\c#\\MyApp\\MyApp.csproj": {
+    "C:\\Users\\bbila\\OneDrive\\Desktop\\project\\Opp\\Opp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bbila\\OneDrive\\Desktop\\dote net project\\c#\\MyApp\\MyApp.csproj",
-        "projectName": "MyApp",
-        "projectPath": "C:\\Users\\bbila\\OneDrive\\Desktop\\dote net project\\c#\\MyApp\\MyApp.csproj",
+        "projectUniqueName": "C:\\Users\\bbila\\OneDrive\\Desktop\\project\\Opp\\Opp.csproj",
+        "projectName": "Opp",
+        "projectPath": "C:\\Users\\bbila\\OneDrive\\Desktop\\project\\Opp\\Opp.csproj",
         "packagesPath": "C:\\Users\\bbila\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bbila\\OneDrive\\Desktop\\dote net project\\c#\\MyApp\\obj\\",
+        "outputPath": "C:\\Users\\bbila\\OneDrive\\Desktop\\project\\Opp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bbila\\AppData\\Roaming\\NuGet\\NuGet.Config"

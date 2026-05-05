@@ -1,0 +1,15 @@
+C:\Users\bbila\OneDrive\Desktop\project\Opp\bin\Debug\net8.0\Opp.exe
+C:\Users\bbila\OneDrive\Desktop\project\Opp\bin\Debug\net8.0\Opp.deps.json
+C:\Users\bbila\OneDrive\Desktop\project\Opp\bin\Debug\net8.0\Opp.runtimeconfig.json
+C:\Users\bbila\OneDrive\Desktop\project\Opp\bin\Debug\net8.0\Opp.dll
+C:\Users\bbila\OneDrive\Desktop\project\Opp\bin\Debug\net8.0\Opp.pdb
+C:\Users\bbila\OneDrive\Desktop\project\Opp\obj\Debug\net8.0\Opp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbila\OneDrive\Desktop\project\Opp\obj\Debug\net8.0\Opp.AssemblyInfoInputs.cache
+C:\Users\bbila\OneDrive\Desktop\project\Opp\obj\Debug\net8.0\Opp.AssemblyInfo.cs
+C:\Users\bbila\OneDrive\Desktop\project\Opp\obj\Debug\net8.0\Opp.csproj.CoreCompileInputs.cache
+C:\Users\bbila\OneDrive\Desktop\project\Opp\obj\Debug\net8.0\Opp.sourcelink.json
+C:\Users\bbila\OneDrive\Desktop\project\Opp\obj\Debug\net8.0\Opp.dll
+C:\Users\bbila\OneDrive\Desktop\project\Opp\obj\Debug\net8.0\refint\Opp.dll
+C:\Users\bbila\OneDrive\Desktop\project\Opp\obj\Debug\net8.0\Opp.pdb
+C:\Users\bbila\OneDrive\Desktop\project\Opp\obj\Debug\net8.0\Opp.genruntimeconfig.cache
+C:\Users\bbila\OneDrive\Desktop\project\Opp\obj\Debug\net8.0\ref\Opp.dll
